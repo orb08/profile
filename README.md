@@ -6,4 +6,4 @@ C++, C#, Python, golang, rust; javascript, typescript
 
 Mostly focused on console program, elaborating mathematical and software architectural / engineering senses.
 
-Do not like to follow common patterns, however my organizations usually converges to industrial practices, with a flat and neat transition.
+Do not like to follow common patterns, however my code organizations usually converges to industrial practices, with a flat and neat transition by detach and attachings.
